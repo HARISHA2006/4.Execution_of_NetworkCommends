@@ -71,8 +71,8 @@ SERVER
 
 
 TRACERT
-![Screenshot 2024-04-24 052846](https://github.com/HARISHA2006/4.Execution_of_NetworkCommends/assets/148843830/d647736e-30b8-4ea3-a310-fbeebc324e9a)
 
+![Screenshot 2024-04-24 053041](https://github.com/HARISHA2006/4.Execution_of_NetworkCommends/assets/148843830/5a919165-632f-4dad-9d58-f744f047bf62)
 
 ## Result
 Thus Execution of Network commands Performed 
